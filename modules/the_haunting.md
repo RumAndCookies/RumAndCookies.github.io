@@ -1,15 +1,18 @@
-## Welcome to The Haunting
+## Welcome to The Haunting, revised
 
-You can use the [editor on GitHub](https://github.com/RumAndCookies/RumAndCookies.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Haunting is the intro module to Call of Cthulhu, written by [Chaosium](https://www.chaosium.com/). It is available for free in the Call of Cthulhu 7th edition quick start rules.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Revised?
+
+Aye, I found the module somewhat lacking, so I wrote some updates for my players' playthrough. You may want to read through the original module first to really get a sense of the changes.
+
+Credit and rights to Chaosium. I do not own any of the IP; I'm just a fan.
+
+---
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
