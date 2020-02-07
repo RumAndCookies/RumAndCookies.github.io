@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Modules
+I love TTRPGs (tabletop role-playing games) and everything that comes with them. Though I like to play then (especially asthat is less work), my real passion is in crafting them.
+As such, I will post modules (adventures, one-shots, etc) that I have ran and finished. This way, I can share what I've spent so many hours doing and not give away everything to my players as they will already have played.
 
-You can use the [editor on GitHub](https://github.com/RumAndCookies/RumAndCookies.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As always, you are encouraged to make each your own, shaping the game to your players and their characters.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RumAndCookies/RumAndCookies.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Systems
+Though most of my time is spent in 5e, I generally prefer to try a myriad of different systems. Similarly, if we are playing 5e, I am more likely to write a whole adventure than a handful of modules.
+With that in mind, I will expand the systems list as I post more. Maybe even sort and link them. Maybe.
+For now, the list of systems is just what I've played/run.
+- Call of Cthulhu
+     - I really enjoyed the Call of Cthulhu system. It tasted like Grin in the expectation of death, but lacked the inevitability of it. That is great for longer form games because it adds a strong sense of accomplishment just for surviving.
+     - [The Haunting, revised](the_haunting.md)
